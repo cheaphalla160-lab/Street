@@ -1,0 +1,6 @@
+{
+  "name": "Sunny Path English",
+  "description": "Interactive primary school English vocabulary game for learning sunny sun, rainy cloud, street, trail, and sidewalk through catch-and-read play, cheerful music, and a class leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
